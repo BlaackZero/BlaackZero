@@ -1,7 +1,7 @@
 <h1 align="center">Hola soy, Felipe Osorio</h1>
 <h3 align="center">Analista Programador en Curso</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contactame para más información::</h3>
 <p align="left">
 </p>
 
