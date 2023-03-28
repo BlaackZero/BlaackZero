@@ -1,4 +1,4 @@
-<h1 align="center">Hola soy, Felipe Osorio</h1>
+<h1 align="center">Felipe Osorio</h1>
 <h3 align="center">Analista Programador en Curso</h3>
 
 <p align="left"> <a href="https://twitter.com/blaackzero" target="blank"><img src="https://img.shields.io/twitter/follow/blaackzero?logo=twitter&style=for-the-badge" alt="blaackzero" /></a> </p>
