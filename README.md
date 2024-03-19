@@ -1,6 +1,7 @@
 <h1 align="center">Felipe Osorio</h1>
 <h3 align="center">Full Stack Dev</h3>
 
+<h4 align="center">Actualmente realizando proyectos con integracion de IA, Desarrollo de Plataformas Web y Despligue de Apps en la nube</h4>
 <p align="left"> <a href="https://twitter.com/blaackzero" target="blank"><img src="https://img.shields.io/twitter/follow/blaackzero?logo=twitter&style=for-the-badge" alt="blaackzero" /></a> </p>
 
 <h3 align="left">Formas de Contacto:</h3>
