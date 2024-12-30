@@ -1,7 +1,7 @@
 <h1 align="center">Felipe Osorio</h1>
-<h3 align="center">Full Stack Dev</h3>
+<h3 align="center">Full Stack Developer</h3>
 
-<h4 align="center">Soy desarrollador apasionado por la integración de inteligencia artificial, el diseño y desarrollo de plataformas web innovadoras, y el despliegue de aplicaciones en la nube. Actualmente, trabajo en proyectos que combinan tecnologías modernas como React, Angular, NestJS y Node.js, con prácticas de DevOps en AWS y Azure. Mi enfoque incluye la creación de soluciones escalables y seguras, aprovechando servicios como Lambda, API Gateway, y bases de datos como DynamoDB y Turso. Además, tengo experiencia en la implementación de estrategias de autenticación robustas (JWT, OAuth). Soy un entusiasta del aprendizaje continuo y disfruto explorar áreas como gaming, e-sports y anime.</h4>
+<h4 align="center">Soy desarrollador apasionado por la integración de inteligencia artificial, el diseño y desarrollo de plataformas web innovadoras, y el despliegue de aplicaciones en la nube. Actualmente, trabajo en proyectos que combinan tecnologías modernas como React, Angular, NestJS y Node.js, con prácticas de DevOps en AWS y Azure. Mi enfoque incluye la creación de soluciones escalables y seguras, aprovechando servicios como Lambda, API Gateway, y bases de datos como DynamoDB y SQL. Además, tengo experiencia en la implementación de estrategias de autenticación robustas (JWT, OAuth). Soy un entusiasta del aprendizaje continuo y disfruto explorar áreas como gaming, e-sports y anime.</h4>
 <p align="left"> <a href="https://twitter.com/blaackzero" target="blank"><img src="https://img.shields.io/twitter/follow/blaackzero?logo=twitter&style=for-the-badge" alt="blaackzero" /></a> </p>
 
 <h3 align="left">Formas de Contacto:</h3>
